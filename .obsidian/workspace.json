@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/asdasd.md",
+                "file": "main/adsads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asdasd"
+              "title": "adsads"
             }
           }
         ]
@@ -224,8 +224,9 @@
   },
   "active": "4200875b500b35c3",
   "lastOpenFiles": [
-    "main/todo/Расписание и дз.canvas",
     "main/asdasd.md",
+    "main/adsads.md",
+    "main/todo/Расписание и дз.canvas",
     "main/todo/Безымянная Kanban-доска.md",
     "main/png/Pasted image 20250824130706 1.png",
     "main/png/Pasted image 20250824130651 1.png",
