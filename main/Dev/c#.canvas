@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{
+			"id":"7ebe7aac79245ba0",
+			"type":"file",
+			"file":"Pasted image 20250824130651.png",
+			"styleAttributes":{"border":"invisible"},
+			"x":-500,
+			"y":-600,
+			"width":224,
+			"height":1180,
+			"color":"2"
+		},
+		{"id":"72f5b02dbc681270","type":"file","file":"Pasted image 20250824130706.png","x":-160,"y":-440,"width":340,"height":861}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
