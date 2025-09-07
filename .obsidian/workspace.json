@@ -15,9 +15,9 @@
               "state": {
                 "file": "main/todo/Расписание и дз.canvas",
                 "viewState": {
-                  "x": -1705.2597597597605,
-                  "y": -410.0179992002136,
-                  "zoom": -0.6666666666666665
+                  "x": -1020,
+                  "y": 380,
+                  "zoom": -1.7618772915397805
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -225,13 +225,13 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "f1527da916899c2f",
+  "active": "4200875b500b35c3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "main/todo/Расписание и дз.canvas",
     "main/todo/Безымянная Kanban-доска.md",
-    "Pasted image 20250824130706.png",
-    "Pasted image 20250824130651.png",
+    "main/png/Pasted image 20250824130706 1.png",
+    "main/png/Pasted image 20250824130651 1.png",
+    "main/todo/Расписание и дз.canvas",
+    "conflict-files-obsidian-git.md",
     "main/Dev/c#.canvas",
     "main/todo/public static void main().md",
     "main/Dev/АС/АС.md",
