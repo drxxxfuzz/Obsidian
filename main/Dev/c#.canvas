@@ -3,7 +3,11 @@
 		{
 			"id":"7ebe7aac79245ba0",
 			"type":"file",
+<<<<<<< HEAD
 			"file":"main/png/Pasted image 20250824130651.png",
+=======
+			"file":"Pasted image 20250824130651.png",
+>>>>>>> origin/main
 			"styleAttributes":{"border":"invisible"},
 			"x":-500,
 			"y":-600,
@@ -11,6 +15,7 @@
 			"height":1180,
 			"color":"2"
 		},
+<<<<<<< HEAD
 		{"id":"72f5b02dbc681270","type":"file","file":"main/png/Pasted image 20250824130706.png","x":-160,"y":-440,"width":340,"height":861},
 		{
 			"id":"8fda71df5f5495e9",
@@ -389,6 +394,11 @@
 			"toSide":"right"
 		}
 	],
+=======
+		{"id":"72f5b02dbc681270","type":"file","file":"Pasted image 20250824130706.png","x":-160,"y":-440,"width":340,"height":861}
+	],
+	"edges":[],
+>>>>>>> origin/main
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
