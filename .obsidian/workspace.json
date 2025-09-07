@@ -185,6 +185,16 @@
             "id": "e2ec9e2a69d203e2",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "4a72723f4365d0ec",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -225,8 +235,8 @@
   "active": "f1527da916899c2f",
   "lastOpenFiles": [
     "main/adsads.md",
-    "main/todo/public static void main().md",
     "main/asdasd.md",
+    "main/todo/public static void main().md",
     "main/todo/Расписание и дз.canvas",
     "main/todo/Безымянная Kanban-доска.md",
     "main/png/Pasted image 20250824130706 1.png",
