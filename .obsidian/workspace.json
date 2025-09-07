@@ -11,17 +11,14 @@
             "id": "f1527da916899c2f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "main/todo/Расписание и дз.canvas",
-                "viewState": {
-                  "x": -1020,
-                  "y": 380,
-                  "zoom": -1.7618772915397805
-                }
+                "file": "main/asdasd.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Расписание и дз"
+              "icon": "lucide-file",
+              "title": "asdasd"
             }
           }
         ]
@@ -227,10 +224,11 @@
   },
   "active": "4200875b500b35c3",
   "lastOpenFiles": [
+    "main/todo/Расписание и дз.canvas",
+    "main/asdasd.md",
     "main/todo/Безымянная Kanban-доска.md",
     "main/png/Pasted image 20250824130706 1.png",
     "main/png/Pasted image 20250824130651 1.png",
-    "main/todo/Расписание и дз.canvas",
     "conflict-files-obsidian-git.md",
     "main/Dev/c#.canvas",
     "main/todo/public static void main().md",
@@ -273,7 +271,6 @@
     "универское поебота/Методы Оптимизации завезите/МО ПОСЛЕ 13/14. Определения выпуклого множества, выпуклой (строго выпуклой) функции..md",
     "Dev/АС/Без названия.canvas",
     "универское поебота/АС курсач",
-    "Dev/АС",
-    "универское поебота/Методы Оптимизации завезите/МО ДО 13/12. Метод искусственного базиса и его обоснование..md"
+    "Dev/АС"
   ]
 }
