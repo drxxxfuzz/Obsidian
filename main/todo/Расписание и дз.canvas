@@ -147,6 +147,16 @@
 			"width":400,
 			"height":280,
 			"color":"1"
+		},
+		{
+			"id":"28f17b4fdcd42bd3",
+			"type":"text",
+			"text":"feee",
+			"styleAttributes":{},
+			"x":-100,
+			"y":620,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
