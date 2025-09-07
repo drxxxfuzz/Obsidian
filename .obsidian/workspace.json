@@ -11,14 +11,17 @@
             "id": "f1527da916899c2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "main/todo/public static void main().md",
-                "mode": "source",
-                "source": false
+                "file": "main/todo/Расписание и дз.canvas",
+                "viewState": {
+                  "x": -27.78915930900098,
+                  "y": 607.2529577177647,
+                  "zoom": -1.333333333333333
+                }
               },
-              "icon": "lucide-file",
-              "title": "public static void main()"
+              "icon": "lucide-layout-dashboard",
+              "title": "Расписание и дз"
             }
           }
         ]
@@ -232,11 +235,11 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "5c7fefe0082e9a3b",
+  "active": "f1527da916899c2f",
   "lastOpenFiles": [
+    "main/todo/public static void main().md",
     "main/todo/Расписание и дз.canvas",
     "main/todo/Безымянная Kanban-доска.md",
-    "main/todo/public static void main().md",
     "main/adsads.md",
     "main/asdasd.md",
     "main/png/Pasted image 20250824130706 1.png",
