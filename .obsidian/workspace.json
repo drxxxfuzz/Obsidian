@@ -15,9 +15,9 @@
               "state": {
                 "file": "main/todo/Расписание и дз.canvas",
                 "viewState": {
-                  "x": -1020,
-                  "y": 380,
-                  "zoom": -1.7618772915397805
+                  "x": 740.4973507882169,
+                  "y": -699.72716786649,
+                  "zoom": -1.0952106248731142
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -145,33 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/АС/АС.md",
+                "file": "main/todo/Расписание и дз.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура АС"
-            }
-          },
-          {
-            "id": "d143196321b7ba7f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "5c7fefe0082e9a3b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Структура Расписание и дз"
             }
           },
           {
@@ -203,13 +183,24 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "29652301d9b8b957",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,8 +228,9 @@
   },
   "active": "f1527da916899c2f",
   "lastOpenFiles": [
-    "main/todo/Безымянная Kanban-доска.md",
     "main/todo/Расписание и дз.canvas",
+    "Pasted image 20250909175800.png",
+    "main/todo/Безымянная Kanban-доска.md",
     "main/todo/public static void main().md",
     "main/adsads.md",
     "main/asdasd.md",
@@ -260,7 +252,6 @@
     "README.md",
     "main/todo",
     "main/png/Pasted Image 20250820225958_200.png",
-    "main/png/Pasted Image 20250820233942_819.png",
     "main/png",
     "универское поебота/Методы Оптимизации завезите/МО ДО 13/11. Алгоритм симплекс-метода..md",
     "универское поебота/Методы Оптимизации завезите/МО ДО 13/8. Теорема оптимальности опорного плана (критерий оптимальности в симплекс-методе). Ее доказательство..md",
