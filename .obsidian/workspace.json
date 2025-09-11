@@ -15,9 +15,9 @@
               "state": {
                 "file": "main/todo/Расписание и дз.canvas",
                 "viewState": {
-                  "x": -1015.791092653287,
-                  "y": 1248.6234914174656,
-                  "zoom": -0.9593776202345615
+                  "x": -28.5,
+                  "y": 30,
+                  "zoom": -1.7600024439193434
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -178,10 +178,10 @@
             "id": "4a72723f4365d0ec",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           },
           {
@@ -193,9 +193,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "1d31964c279a1f98",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -226,11 +236,11 @@
       "tg-emoji-search:Emoji suggester": false
     }
   },
-  "active": "f1527da916899c2f",
+  "active": "1d31964c279a1f98",
   "lastOpenFiles": [
+    "main/todo/Безымянная Kanban-доска.md",
     "main/todo/Расписание и дз.canvas",
     "Pasted image 20250909175800.png",
-    "main/todo/Безымянная Kanban-доска.md",
     "main/todo/public static void main().md",
     "main/adsads.md",
     "main/asdasd.md",
