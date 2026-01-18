@@ -40,14 +40,16 @@
             "id": "84eabfa74f5fca90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -269,7 +271,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "4200875b500b35c3",
+  "active": "a07af46b653d42bd",
   "lastOpenFiles": [
     "main/универское поебота/Методы Оптимизации завезите/МО ДО 13/7. Обоснование (вывод) симплекс-метода.excalidraw.md",
     "main/универское поебота/Методы Оптимизации завезите/МО ДО 13/8. Теорема оптимальности опорного плана (критерий оптимальности в симплекс-методе). Ее доказательство..md",
