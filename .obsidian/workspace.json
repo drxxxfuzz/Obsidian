@@ -31,8 +31,7 @@
               "title": "примечания к выпуску 1.11.5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,7 +254,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "e38b24b5ca01c083",
+  "active": "d5a990dd33dfac97",
   "lastOpenFiles": [
     "main/универское поебота/Инфобез/Алг Евк Об.md",
     "Безымянная Kanban-доска.md",
