@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Алг Евк Об"
             }
+          },
+          {
+            "id": "04998a03dd0afca3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,7 +255,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "7ce3c2a438b1ab5f",
+  "active": "e38b24b5ca01c083",
   "lastOpenFiles": [
     "main/универское поебота/Инфобез/Алг Евк Об.md",
     "Безымянная Kanban-доска.md",
