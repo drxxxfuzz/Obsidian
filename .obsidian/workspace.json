@@ -11,24 +11,17 @@
             "id": "d5a990dd33dfac97",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "main/универское поебота/Инфобез/Алг Евк Об.md"
+                "file": "main/todo/Расписание и дз.canvas",
+                "viewState": {
+                  "x": 491.5,
+                  "y": -975.5,
+                  "zoom": -1.4389557808388749
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Алг Евк Об"
-            }
-          },
-          {
-            "id": "27e3fc93a91a06d8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.7"
+              "icon": "lucide-layout-dashboard",
+              "title": "Расписание и дз"
             }
           },
           {
@@ -43,8 +36,7 @@
               "title": "примечания к выпуску 1.11.5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5,
-    "collapsed": true
+    "width": 471.5
   },
   "right": {
     "id": "d5715a7ea3a41201",
@@ -267,20 +258,20 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "52319b4cb7592476",
+  "active": "d5a990dd33dfac97",
   "lastOpenFiles": [
+    "main/png/расписание 1.pdf",
+    "Pasted Image 20260223190211_364.png",
+    "Pasted Image 20260223201002_988.png",
     "Pasted Image 20260223204851_519.png",
+    "Pasted Image 20260223204234_889.png",
+    "Pasted Image 20260223203638_484.png",
+    "main/универское поебота/Инфобез/Алг Евк Об.md",
     "Pasted Image 20260223204749_598.png",
     "Pasted Image 20260223204643_165.png",
     "Pasted Image 20260223204257_144.png",
-    "Pasted Image 20260223204234_889.png",
     "Pasted Image 20260223204037_751.png",
     "Pasted Image 20260223203813_455.png",
-    "Pasted Image 20260223203743_118.png",
-    "Pasted Image 20260223203653_922.png",
-    "Pasted Image 20260223203638_484.png",
-    "Pasted Image 20260223202411_480.png",
-    "main/универское поебота/Инфобез/Алг Евк Об.md",
     "Безымянная Kanban-доска.md",
     "main/универское поебота/Методы Оптимизации завезите/МО ДО 13/1. Постановка задачи линейного программирования (ЛП). .excalidraw.md",
     "main/универское поебота/Инфобез/Без названия.canvas",
@@ -314,7 +305,6 @@
     "main/универское поебота/Методы Оптимизации завезите/ПЛАН МО.base",
     "Excalidraw",
     "main/Dev/c#.canvas",
-    "main/png/расписание 1.pdf",
     "расписание.pdf",
     "main/Dev/Без названия.base",
     "main/todo",
