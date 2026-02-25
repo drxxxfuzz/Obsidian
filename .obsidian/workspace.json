@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "27e3fc93a91a06d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.7"
+            }
+          },
+          {
             "id": "04998a03dd0afca3",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               "title": "примечания к выпуску 1.11.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,7 +267,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d5a990dd33dfac97",
+  "active": "52319b4cb7592476",
   "lastOpenFiles": [
     "Pasted Image 20260223204851_519.png",
     "Pasted Image 20260223204749_598.png",
