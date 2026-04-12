@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "28bb7820d10a006c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.12.4"
+            }
+          },
+          {
             "id": "04998a03dd0afca3",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               "title": "примечания к выпуску 1.11.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,7 +267,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "d5a990dd33dfac97",
+  "active": "c342fdc110f80886",
   "lastOpenFiles": [
     "main/универское поебота/Инфобез/Алг Евк Об.md",
     "main/todo/Расписание и дз.canvas",
