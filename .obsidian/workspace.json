@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "ff56c8b0cdf0659b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-13 20.03.06.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-13 20.03.06.excalidraw"
+            }
+          },
+          {
             "id": "04998a03dd0afca3",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 471.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5715a7ea3a41201",
@@ -278,8 +291,9 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "f9aff45b7feea9be",
+  "active": "ff56c8b0cdf0659b",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-04-13 20.03.06.excalidraw.md",
     "main/универское поебота/Методы Оптимизации завезите/ПРАКТИКА.canvas",
     "main/универское поебота/Методы Оптимизации завезите/ПЛАН МО.base",
     "main/универское поебота/Инфобез/Алг Евк Об.md",
