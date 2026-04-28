@@ -54,18 +54,6 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-04-13 20.03.06.excalidraw"
             }
-          },
-          {
-            "id": "04998a03dd0afca3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.5"
-            }
           }
         ],
         "currentTab": 3
@@ -291,7 +279,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "ff56c8b0cdf0659b",
+  "active": "0328bedfbab3b649",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-04-13 20.03.06.excalidraw.md",
     "Pasted Image 20260420204941_892.png",
