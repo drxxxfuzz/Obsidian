@@ -1,9 +1,111 @@
 {
 	"nodes":[
-		{"id":"46a4029bcecd06c8","type":"file","file":"Pasted image 20250909175800.png","x":360,"y":-1508,"width":1863,"height":1397},
-		{"id":"1c47a55ecfbaa138","type":"file","file":"main/png/расписание 1.pdf","x":-1240,"y":-1840,"width":1420,"height":1480}
+		{
+			"id":"4bf89b6965d05eef",
+			"type":"text",
+			"text":"\tЭкспертные системы\n\tДосдать 3,4,7,8 лабу\n\t(4 лабу попросить)",
+			"styleAttributes":{},
+			"x":-400,
+			"y":-3180,
+			"width":260,
+			"height":110,
+			"color":"1"
+		},
+		{
+			"id":"bad23e4bcffc18be",
+			"type":"text",
+			"text":"\t\t   БЖД",
+			"styleAttributes":{},
+			"x":-420,
+			"y":-3000,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d151288a8d2e2a22",
+			"type":"text",
+			"text":"Имитационное моделирование",
+			"styleAttributes":{},
+			"x":-420,
+			"y":-2680,
+			"width":260,
+			"height":160
+		},
+		{
+			"id":"b8d990c1b4e49c90",
+			"type":"text",
+			"text":"Экспертная система с СТМ",
+			"styleAttributes":{},
+			"x":-20,
+			"y":-3180,
+			"width":260,
+			"height":110,
+			"color":"1"
+		},
+		{
+			"id":"b95cae254c9e7a9b",
+			"type":"text",
+			"text":"Ознакомительная практика\nSTM (блокчейн)",
+			"styleAttributes":{},
+			"x":480,
+			"y":-3180,
+			"width":260,
+			"height":140,
+			"color":"4"
+		},
+		{
+			"id":"40ee775b87ef026e",
+			"type":"text",
+			"text":"\t\t\tАвтоматы",
+			"styleAttributes":{},
+			"x":440,
+			"y":-2600,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"69ec0831fb7f69b5",
+			"type":"text",
+			"text":"\t\t\tВеб",
+			"styleAttributes":{},
+			"x":0,
+			"y":-2660,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ee3b8a2f9eab6c5f",
+			"type":"text",
+			"text":"\t\tАнализ данных",
+			"styleAttributes":{},
+			"x":520,
+			"y":-2860,
+			"width":260,
+			"height":60
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"11641db250cf827c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4bf89b6965d05eef",
+			"fromSide":"right",
+			"toNode":"b8d990c1b4e49c90",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"fe6bd6dce20b4dc2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b95cae254c9e7a9b",
+			"fromSide":"left",
+			"toNode":"b8d990c1b4e49c90",
+			"toSide":"right",
+			"color":"3"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

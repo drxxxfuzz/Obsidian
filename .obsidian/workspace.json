@@ -4,59 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "54cd465eb33af230",
+        "id": "2ce95e9d799d372a",
         "type": "tabs",
         "children": [
           {
-            "id": "d5a990dd33dfac97",
+            "id": "e7fe1d24885cf094",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "main/универское поебота/Инфобез/Алг Евк Об.md"
+                "file": "main/todo/Расписание и дз.canvas",
+                "viewState": {
+                  "x": 243.30274380127773,
+                  "y": -2878.9762102690083,
+                  "zoom": -0.43895578083887504
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Алг Евк Об"
-            }
-          },
-          {
-            "id": "28bb7820d10a006c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "main/универское поебота/Методы Оптимизации завезите/Drawing 2025-10-17 15.04.25.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-17 15.04.25.excalidraw"
-            }
-          },
-          {
-            "id": "22184859c1d20199",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.12.7"
-            }
-          },
-          {
-            "id": "ff56c8b0cdf0659b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-04-13 20.03.06.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-13 20.03.06.excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "Расписание и дз"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5,
-    "collapsed": true
+    "width": 471.5
   },
   "right": {
     "id": "d5715a7ea3a41201",
@@ -279,25 +246,28 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "f05bb43250211b92",
+  "active": "e7fe1d24885cf094",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-04-13 20.03.06.excalidraw.md",
-    "Pasted Image 20260420204941_892.png",
-    "main/универское поебота/Методы Оптимизации завезите/ПРАКТИКА.canvas",
-    "main/универское поебота/Методы Оптимизации завезите/ПЛАН МО.base",
+    "main/Dev/c#.canvas",
     "main/универское поебота/Инфобез/Алг Евк Об.md",
+    "main/универское поебота/Методы Оптимизации завезите/Drawing 2025-10-17 15.04.25.excalidraw.md",
     "main/todo/Расписание и дз.canvas",
+    "main/todo/public static void main().md",
     "main/png/расписание 1.pdf",
-    "Pasted Image 20260223190211_364.png",
-    "Pasted Image 20260223201002_988.png",
+    "Безымянная Kanban-доска.md",
+    "Pasted Image 20260420204941_892.png",
     "Pasted Image 20260223204851_519.png",
-    "Pasted Image 20260223204234_889.png",
-    "Pasted Image 20260223203638_484.png",
     "Pasted Image 20260223204749_598.png",
     "Pasted Image 20260223204643_165.png",
     "Pasted Image 20260223204257_144.png",
+    "Pasted Image 20260223204234_889.png",
     "Pasted Image 20260223204037_751.png",
-    "Безымянная Kanban-доска.md",
+    "Pasted Image 20260223203813_455.png",
+    "Pasted Image 20260223203743_118.png",
+    "Pasted Image 20260223203653_922.png",
+    "Excalidraw/Drawing 2026-04-13 20.03.06.excalidraw.md",
+    "main/универское поебота/Методы Оптимизации завезите/ПРАКТИКА.canvas",
+    "main/универское поебота/Методы Оптимизации завезите/ПЛАН МО.base",
     "main/универское поебота/Методы Оптимизации завезите/МО ДО 13/1. Постановка задачи линейного программирования (ЛП). .excalidraw.md",
     "main/универское поебота/Инфобез/Без названия.canvas",
     "main/универское поебота/Инфобез",
@@ -310,8 +280,6 @@
     "main/универское поебота/Методы Оптимизации завезите/МО ДО 13/11. Алгоритм симплекс-метода..md",
     "main/универское поебота/Методы Оптимизации завезите/МО ДО 13/9. Симплексная таблица..md",
     "main/универское поебота/Методы Оптимизации завезите/МО ДО 13/10. Связь между коэффициентами разложения векторов-столбцов задачи в соседних симплексных таблицах..md",
-    "main/универское поебота/Методы Оптимизации завезите/Drawing 2025-10-17 15.04.25.excalidraw.md",
-    "main/todo/public static void main().md",
     "main/универское поебота/АС курсач/АС/АС.md",
     "main/универское поебота/Методы Оптимизации завезите.zip",
     "main/универское поебота/Методы Оптимизации завезите.7z",
@@ -325,7 +293,6 @@
     "main/универское поебота/Методы Оптимизации завезите/МО ПОСЛЕ 13/17. Теорема о глобальном и локальном минимуме. Ее доказательство..md",
     "main/универское поебота/Методы Оптимизации завезите/МО ПОСЛЕ 13/16. Постановка задачи выпуклого программирования. Ее геометрический смысл..md",
     "Excalidraw",
-    "main/Dev/c#.canvas",
     "расписание.pdf",
     "main/Dev/Без названия.base",
     "main/todo",
