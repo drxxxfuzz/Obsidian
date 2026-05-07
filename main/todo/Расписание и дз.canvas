@@ -1,43 +1,34 @@
 {
 	"nodes":[
 		{
+			"id":"d1b07d5fffc7d448",
+			"type":"text",
+			"text":"Только 4 лабу по факту найти\n13.05 СДАТЬ ЛАБЫ",
+			"styleAttributes":{},
+			"x":-200,
+			"y":-3320,
+			"width":260,
+			"height":100,
+			"color":"5"
+		},
+		{
 			"id":"4bf89b6965d05eef",
 			"type":"text",
 			"text":"\tЭкспертные системы\n\tДосдать 3,4,7,8 лабу\n\t(4 лабу попросить)",
 			"styleAttributes":{},
-			"x":-400,
-			"y":-3180,
+			"x":-520,
+			"y":-3160,
 			"width":260,
 			"height":110,
 			"color":"1"
-		},
-		{
-			"id":"bad23e4bcffc18be",
-			"type":"text",
-			"text":"\t\t   БЖД",
-			"styleAttributes":{},
-			"x":-420,
-			"y":-3000,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"d151288a8d2e2a22",
-			"type":"text",
-			"text":"Имитационное моделирование",
-			"styleAttributes":{},
-			"x":-420,
-			"y":-2680,
-			"width":260,
-			"height":160
 		},
 		{
 			"id":"b8d990c1b4e49c90",
 			"type":"text",
 			"text":"Экспертная система с СТМ",
 			"styleAttributes":{},
-			"x":-20,
-			"y":-3180,
+			"x":-40,
+			"y":-3160,
 			"width":260,
 			"height":110,
 			"color":"1"
@@ -47,29 +38,39 @@
 			"type":"text",
 			"text":"Ознакомительная практика\nSTM (блокчейн)",
 			"styleAttributes":{},
-			"x":480,
-			"y":-3180,
+			"x":340,
+			"y":-3320,
 			"width":260,
 			"height":140,
 			"color":"4"
 		},
 		{
-			"id":"40ee775b87ef026e",
+			"id":"bad23e4bcffc18be",
 			"type":"text",
-			"text":"\t\t\tАвтоматы",
+			"text":"\t\t   БЖД",
 			"styleAttributes":{},
-			"x":440,
-			"y":-2600,
+			"x":-500,
+			"y":-2920,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"d151288a8d2e2a22",
+			"type":"text",
+			"text":"Имитационное моделирование",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-2740,
+			"width":260,
+			"height":160
 		},
 		{
 			"id":"69ec0831fb7f69b5",
 			"type":"text",
 			"text":"\t\t\tВеб",
 			"styleAttributes":{},
-			"x":0,
-			"y":-2660,
+			"x":20,
+			"y":-2860,
 			"width":260,
 			"height":60
 		},
@@ -78,8 +79,18 @@
 			"type":"text",
 			"text":"\t\tАнализ данных",
 			"styleAttributes":{},
-			"x":520,
-			"y":-2860,
+			"x":420,
+			"y":-2770,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"40ee775b87ef026e",
+			"type":"text",
+			"text":"\t\t\tАвтоматы",
+			"styleAttributes":{},
+			"x":90,
+			"y":-2610,
 			"width":260,
 			"height":60
 		}
@@ -104,6 +115,17 @@
 			"toNode":"b8d990c1b4e49c90",
 			"toSide":"right",
 			"color":"3"
+		},
+		{
+			"id":"814f0a09e6f1eae3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"4bf89b6965d05eef",
+			"fromSide":"top",
+			"toNode":"d1b07d5fffc7d448",
+			"toSide":"bottom",
+			"color":"5"
 		}
 	],
 	"metadata":{
