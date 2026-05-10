@@ -1,17 +1,6 @@
 {
 	"nodes":[
 		{
-			"id":"d1b07d5fffc7d448",
-			"type":"text",
-			"text":"Только 4 лабу по факту найти\n13.05 СДАТЬ ЛАБЫ",
-			"styleAttributes":{},
-			"x":-200,
-			"y":-3320,
-			"width":260,
-			"height":100,
-			"color":"5"
-		},
-		{
 			"id":"4bf89b6965d05eef",
 			"type":"text",
 			"text":"\tЭкспертные системы\n\tДосдать 3,4,7,8 лабу\n\t(4 лабу попросить)",
@@ -34,43 +23,44 @@
 			"color":"1"
 		},
 		{
+			"id":"d1b07d5fffc7d448",
+			"type":"text",
+			"text":"Только 4 лабу по факту найти\n13.05 СДАТЬ ЛАБЫ",
+			"styleAttributes":{},
+			"x":-500,
+			"y":-3370,
+			"width":260,
+			"height":100,
+			"color":"5"
+		},
+		{
 			"id":"b95cae254c9e7a9b",
 			"type":"text",
 			"text":"Ознакомительная практика\nSTM (блокчейн)",
 			"styleAttributes":{},
-			"x":340,
-			"y":-3320,
+			"x":0,
+			"y":-3370,
 			"width":260,
 			"height":140,
 			"color":"4"
-		},
-		{
-			"id":"bad23e4bcffc18be",
-			"type":"text",
-			"text":"\t\t   БЖД",
-			"styleAttributes":{},
-			"x":-500,
-			"y":-2920,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"d151288a8d2e2a22",
-			"type":"text",
-			"text":"Имитационное моделирование",
-			"styleAttributes":{},
-			"x":-500,
-			"y":-2740,
-			"width":260,
-			"height":160
 		},
 		{
 			"id":"69ec0831fb7f69b5",
 			"type":"text",
 			"text":"\t\t\tВеб",
 			"styleAttributes":{},
-			"x":20,
-			"y":-2860,
+			"x":-370,
+			"y":-2580,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"bad23e4bcffc18be",
+			"type":"text",
+			"text":"\t\t   БЖД",
+			"styleAttributes":{},
+			"x":-430,
+			"y":-2700,
 			"width":260,
 			"height":60
 		},
@@ -79,18 +69,28 @@
 			"type":"text",
 			"text":"\t\tАнализ данных",
 			"styleAttributes":{},
-			"x":420,
-			"y":-2770,
+			"x":-430,
+			"y":-2500,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"d151288a8d2e2a22",
+			"type":"text",
+			"text":"Имитационное моделирование",
+			"styleAttributes":{},
+			"x":420,
+			"y":-3350,
+			"width":260,
+			"height":160
 		},
 		{
 			"id":"40ee775b87ef026e",
 			"type":"text",
 			"text":"\t\t\tАвтоматы",
 			"styleAttributes":{},
-			"x":90,
-			"y":-2610,
+			"x":420,
+			"y":-3190,
 			"width":260,
 			"height":60
 		}
