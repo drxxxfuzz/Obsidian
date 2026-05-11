@@ -11,17 +11,12 @@
             "id": "e7fe1d24885cf094",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "main/todo/Расписание и дз.canvas",
-                "viewState": {
-                  "x": 243.30274380127773,
-                  "y": -2878.9762102690083,
-                  "zoom": -0.43895578083887504
-                }
+                "file": "main/универское поебота/Методы Оптимизации завезите/Drawing 2025-10-17 15.04.25.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Расписание и дз"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-17 15.04.25.excalidraw"
             }
           }
         ]
@@ -81,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 471.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5715a7ea3a41201",
@@ -248,10 +244,12 @@
   },
   "active": "e7fe1d24885cf094",
   "lastOpenFiles": [
+    "main/универское поебота/Методы Оптимизации завезите/ПРАКТИКА.canvas",
+    "main/универское поебота/Методы Оптимизации завезите/ПЛАН МО.base",
+    "main/todo/Расписание и дз.canvas",
     "main/Dev/c#.canvas",
     "main/универское поебота/Инфобез/Алг Евк Об.md",
     "main/универское поебота/Методы Оптимизации завезите/Drawing 2025-10-17 15.04.25.excalidraw.md",
-    "main/todo/Расписание и дз.canvas",
     "main/todo/public static void main().md",
     "main/png/расписание 1.pdf",
     "Безымянная Kanban-доска.md",
@@ -266,8 +264,6 @@
     "Pasted Image 20260223203743_118.png",
     "Pasted Image 20260223203653_922.png",
     "Excalidraw/Drawing 2026-04-13 20.03.06.excalidraw.md",
-    "main/универское поебота/Методы Оптимизации завезите/ПРАКТИКА.canvas",
-    "main/универское поебота/Методы Оптимизации завезите/ПЛАН МО.base",
     "main/универское поебота/Методы Оптимизации завезите/МО ДО 13/1. Постановка задачи линейного программирования (ЛП). .excalidraw.md",
     "main/универское поебота/Инфобез/Без названия.canvas",
     "main/универское поебота/Инфобез",
