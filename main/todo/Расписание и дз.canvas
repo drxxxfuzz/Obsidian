@@ -23,17 +23,6 @@
 			"color":"1"
 		},
 		{
-			"id":"b95cae254c9e7a9b",
-			"type":"text",
-			"text":"Ознакомительная практика\nSTM (блокчейн)",
-			"styleAttributes":{},
-			"x":-140,
-			"y":-3580,
-			"width":260,
-			"height":140,
-			"color":"4"
-		},
-		{
 			"id":"d1b07d5fffc7d448",
 			"type":"text",
 			"text":"Только 4 лабу по факту найти\n13.05 СДАТЬ ЛАБЫ",
@@ -93,6 +82,17 @@
 			"y":-3040,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"b95cae254c9e7a9b",
+			"type":"text",
+			"text":"Ознакомительная практика\nSTM (блокчейн)",
+			"styleAttributes":{},
+			"x":-60,
+			"y":-3510,
+			"width":260,
+			"height":140,
+			"color":"4"
 		}
 	],
 	"edges":[
@@ -110,8 +110,9 @@
 			"id":"fe6bd6dce20b4dc2",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"b95cae254c9e7a9b",
-			"fromSide":"left",
+			"fromSide":"bottom",
 			"toNode":"b8d990c1b4e49c90",
 			"toSide":"right",
 			"color":"3"
