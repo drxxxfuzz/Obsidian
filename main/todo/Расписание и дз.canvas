@@ -69,8 +69,8 @@
 			"type":"text",
 			"text":"\t\t\tАвтоматы",
 			"styleAttributes":{},
-			"x":480,
-			"y":-3170,
+			"x":360,
+			"y":-3160,
 			"width":260,
 			"height":60
 		},
@@ -79,8 +79,8 @@
 			"type":"text",
 			"text":"\t\t\tВеб",
 			"styleAttributes":{},
-			"x":480,
-			"y":-3110,
+			"x":360,
+			"y":-3100,
 			"width":260,
 			"height":60
 		},
@@ -89,8 +89,8 @@
 			"type":"text",
 			"text":"\t\tАнализ данных",
 			"styleAttributes":{},
-			"x":480,
-			"y":-3050,
+			"x":360,
+			"y":-3040,
 			"width":260,
 			"height":60
 		}

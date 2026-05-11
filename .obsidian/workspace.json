@@ -11,12 +11,17 @@
             "id": "e7fe1d24885cf094",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "main/универское поебота/Методы Оптимизации завезите/Drawing 2025-10-17 15.04.25.excalidraw.md"
+                "file": "main/todo/Расписание и дз.canvas",
+                "viewState": {
+                  "x": 313,
+                  "y": -3244,
+                  "zoom": 0
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-17 15.04.25.excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "Расписание и дз"
             }
           }
         ]
@@ -76,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5,
-    "collapsed": true
+    "width": 471.5
   },
   "right": {
     "id": "d5715a7ea3a41201",
@@ -244,12 +248,12 @@
   },
   "active": "e7fe1d24885cf094",
   "lastOpenFiles": [
+    "main/универское поебота/Методы Оптимизации завезите/Drawing 2025-10-17 15.04.25.excalidraw.md",
     "main/универское поебота/Методы Оптимизации завезите/ПРАКТИКА.canvas",
     "main/универское поебота/Методы Оптимизации завезите/ПЛАН МО.base",
     "main/todo/Расписание и дз.canvas",
     "main/Dev/c#.canvas",
     "main/универское поебота/Инфобез/Алг Евк Об.md",
-    "main/универское поебота/Методы Оптимизации завезите/Drawing 2025-10-17 15.04.25.excalidraw.md",
     "main/todo/public static void main().md",
     "main/png/расписание 1.pdf",
     "Безымянная Kanban-доска.md",
