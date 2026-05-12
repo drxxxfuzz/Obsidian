@@ -15,9 +15,9 @@
               "state": {
                 "file": "main/todo/Расписание и дз.canvas",
                 "viewState": {
-                  "x": 489,
-                  "y": -3045,
-                  "zoom": 0
+                  "x": 170,
+                  "y": -3342,
+                  "zoom": -1.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 471.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5715a7ea3a41201",
