@@ -124,46 +124,93 @@
 			"color":"4"
 		},
 		{
-			"id":"3b37235c549c7fe8",
+			"id":"e105a3ce1d1efe42",
 			"type":"text",
-			"text":"client",
+			"text":"Контроллеры S3-хранилища и локального хранилища\n",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-220,
-			"y":-1680,
-			"width":100,
-			"height":60
+			"x":-74,
+			"y":-1440,
+			"width":330,
+			"height":80,
+			"color":"4"
 		},
 		{
-			"id":"39164908c255633f",
+			"id":"90a3622422c85ce3",
 			"type":"text",
-			"text":"HTTP - multipart",
+			"text":"Модуль сжатия PAQCompressor",
 			"styleAttributes":{"textAlign":"center"},
-			"x":20,
-			"y":-1680,
-			"width":140,
-			"height":60
+			"x":-39,
+			"y":-1300,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"0efa26e884f74faa",
+			"type":"text",
+			"text":"MiniO",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-220,
+			"y":-1300,
+			"width":100,
+			"height":60,
+			"color":"5"
 		},
 		{
 			"id":"52015b50d02ffcc0",
 			"type":"text",
 			"text":"ASP.NET Core Web API",
 			"styleAttributes":{"textAlign":"center"},
-			"x":0,
-			"y":-1540,
-			"width":260,
-			"height":60
+			"x":3,
+			"y":-1560,
+			"width":175,
+			"height":60,
+			"color":"3"
 		},
 		{
-			"id":"e105a3ce1d1efe42",
+			"id":"3b37235c549c7fe8",
 			"type":"text",
-			"text":"Контроллеры\n",
+			"text":"client",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-360,
+			"y":-1780,
+			"width":100,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"39164908c255633f",
+			"type":"text",
+			"text":"HTTP - multipart",
+			"styleAttributes":{"textAlign":"center"},
+			"x":21,
+			"y":-1780,
+			"width":140,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"4e9ebd1e26bb019a",
+			"type":"text",
+			"text":"GET,POST - запрос ",
 			"styleAttributes":{
-				"textAlign":null
+				"border":null
 			},
-			"x":-30,
-			"y":-1440,
-			"width":380,
-			"height":280
+			"x":-180,
+			"y":-1840,
+			"width":120,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"e9432b1edcc26a8b",
+			"type":"text",
+			"text":"Запрос к ",
+			"styleAttributes":{},
+			"x":161,
+			"y":-1680,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -187,6 +234,59 @@
 			"toNode":"b8d990c1b4e49c90",
 			"toSide":"top",
 			"color":"3"
+		},
+		{
+			"id":"cef3b4cacc65daee",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"3b37235c549c7fe8",
+			"fromSide":"right",
+			"toNode":"39164908c255633f",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"802c424d9bf82fce",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"39164908c255633f",
+			"fromSide":"bottom",
+			"toNode":"52015b50d02ffcc0",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"a163e3cab73f5528",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"52015b50d02ffcc0",
+			"fromSide":"bottom",
+			"toNode":"e105a3ce1d1efe42",
+			"toSide":"top",
+			"color":"3"
+		},
+		{
+			"id":"6d99cfde56105988",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e105a3ce1d1efe42",
+			"fromSide":"bottom",
+			"toNode":"90a3622422c85ce3",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"979d3e741c0eab68",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"90a3622422c85ce3",
+			"fromSide":"left",
+			"toNode":"0efa26e884f74faa",
+			"toSide":"right",
+			"color":"4"
 		}
 	],
 	"metadata":{
