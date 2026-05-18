@@ -23,26 +23,6 @@
 			"color":"1"
 		},
 		{
-			"id":"d151288a8d2e2a22",
-			"type":"text",
-			"text":"Имитационное моделирование",
-			"styleAttributes":{},
-			"x":420,
-			"y":-3520,
-			"width":260,
-			"height":160
-		},
-		{
-			"id":"bad23e4bcffc18be",
-			"type":"text",
-			"text":"\t\t   БЖД",
-			"styleAttributes":{},
-			"x":420,
-			"y":-3360,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"40ee775b87ef026e",
 			"type":"text",
 			"text":"\t\t\tАвтоматы",
@@ -63,38 +43,6 @@
 			"height":60
 		},
 		{
-			"id":"ee3b8a2f9eab6c5f",
-			"type":"text",
-			"text":"\t\tАнализ данных",
-			"styleAttributes":{},
-			"x":360,
-			"y":-3040,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b95cae254c9e7a9b",
-			"type":"text",
-			"text":"Ознакомительная практика\nSTM (блокчейн)",
-			"styleAttributes":{},
-			"x":-60,
-			"y":-3510,
-			"width":260,
-			"height":140,
-			"color":"4"
-		},
-		{
-			"id":"d1b07d5fffc7d448",
-			"type":"text",
-			"text":"Только 4 лабу по факту найти\n13.05 СДАТЬ ЛАБЫ",
-			"styleAttributes":{},
-			"x":-680,
-			"y":-3700,
-			"width":260,
-			"height":100,
-			"color":"5"
-		},
-		{
 			"id":"b95322fa682637c0",
 			"type":"text",
 			"text":"",
@@ -103,6 +51,48 @@
 			"y":-3805,
 			"width":420,
 			"height":210
+		},
+		{
+			"id":"ee3b8a2f9eab6c5f",
+			"type":"text",
+			"text":"\t\tАнализ данных",
+			"styleAttributes":{},
+			"x":-170,
+			"y":-2960,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d151288a8d2e2a22",
+			"type":"text",
+			"text":"Имитационное моделирование",
+			"styleAttributes":{},
+			"x":360,
+			"y":-3650,
+			"width":260,
+			"height":160
+		},
+		{
+			"id":"d1b07d5fffc7d448",
+			"type":"text",
+			"text":"Только 4 лабу по факту найти\n13.05 СДАТЬ ЛАБЫ",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-3420,
+			"width":260,
+			"height":100,
+			"color":"5"
+		},
+		{
+			"id":"b95cae254c9e7a9b",
+			"type":"text",
+			"text":"Ознакомительная практика\nSTM (блокчейн)",
+			"styleAttributes":{},
+			"x":-40,
+			"y":-3440,
+			"width":260,
+			"height":140,
+			"color":"4"
 		}
 	],
 	"edges":[
@@ -117,17 +107,6 @@
 			"color":"1"
 		},
 		{
-			"id":"fe6bd6dce20b4dc2",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"b95cae254c9e7a9b",
-			"fromSide":"bottom",
-			"toNode":"b8d990c1b4e49c90",
-			"toSide":"right",
-			"color":"3"
-		},
-		{
 			"id":"814f0a09e6f1eae3",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -137,6 +116,17 @@
 			"toNode":"d1b07d5fffc7d448",
 			"toSide":"bottom",
 			"color":"5"
+		},
+		{
+			"id":"252b25d2592d9e8d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"b95cae254c9e7a9b",
+			"fromSide":"bottom",
+			"toNode":"b8d990c1b4e49c90",
+			"toSide":"top",
+			"color":"3"
 		}
 	],
 	"metadata":{
