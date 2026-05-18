@@ -243,6 +243,115 @@
 			"width":194,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"84393765da8826b8",
+			"type":"text",
+			"text":"Входной файл",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-420,
+			"y":-880,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"520ea888f8f41633",
+			"type":"text",
+			"text":"LZP (поиск повторений)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-420,
+			"y":-750,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"a2156ecdda488119",
+			"type":"text",
+			"text":" Predictor (контекстное смешивание)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-420,
+			"y":-630,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"7750e00751379196",
+			"type":"text",
+			"text":"Encoder (арифметическое кодирование)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-420,
+			"y":-510,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"b87a5d054f221740",
+			"type":"text",
+			"text":"Выходной .paq файл",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-420,
+			"y":-390,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"fc02e64d23a6b9e0",
+			"type":"text",
+			"text":"Выходной файл",
+			"styleAttributes":{"textAlign":"center"},
+			"x":520,
+			"y":-390,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d5fe137afa33d7ae",
+			"type":"text",
+			"text":" Predictor (контекстное смешивание)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":520,
+			"y":-630,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"ccb913c6b4f86335",
+			"type":"text",
+			"text":"Encoder (декодирование)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":520,
+			"y":-750,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"0540115769518507",
+			"type":"text",
+			"text":"Входной .paq файл",
+			"styleAttributes":{"textAlign":"center"},
+			"x":520,
+			"y":-880,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"30c37eedaf4ea55c",
+			"type":"text",
+			"text":"LZP (восстановление)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":520,
+			"y":-510,
+			"width":260,
+			"height":60,
+			"color":"3"
 		}
 	],
 	"edges":[
@@ -319,6 +428,85 @@
 			"toNode":"0efa26e884f74faa",
 			"toSide":"right",
 			"color":"4"
+		},
+		{
+			"id":"c3d1a658713c1db2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"84393765da8826b8",
+			"fromSide":"bottom",
+			"toNode":"520ea888f8f41633",
+			"toSide":"top",
+			"color":"1"
+		},
+		{
+			"id":"439986e2dc69ce39",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"520ea888f8f41633",
+			"fromSide":"left",
+			"toNode":"a2156ecdda488119",
+			"toSide":"left",
+			"color":"3"
+		},
+		{
+			"id":"b586c28b9c730c69",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a2156ecdda488119",
+			"fromSide":"right",
+			"toNode":"7750e00751379196",
+			"toSide":"right",
+			"color":"3"
+		},
+		{
+			"id":"efc301fb4cf4dc7a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7750e00751379196",
+			"fromSide":"bottom",
+			"toNode":"b87a5d054f221740",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"af3fd84beb2ce0cb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0540115769518507",
+			"fromSide":"bottom",
+			"toNode":"ccb913c6b4f86335",
+			"toSide":"top"
+		},
+		{
+			"id":"6b2a4812759452bd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ccb913c6b4f86335",
+			"fromSide":"right",
+			"toNode":"d5fe137afa33d7ae",
+			"toSide":"right"
+		},
+		{
+			"id":"a04efb00137d4ee8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d5fe137afa33d7ae",
+			"fromSide":"left",
+			"toNode":"30c37eedaf4ea55c",
+			"toSide":"left"
+		},
+		{
+			"id":"e2ec7f0e0164b35e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"30c37eedaf4ea55c",
+			"fromSide":"bottom",
+			"toNode":"fc02e64d23a6b9e0",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
