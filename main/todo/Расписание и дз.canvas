@@ -51,16 +51,6 @@
 			"height":407
 		},
 		{
-			"id":"ee3b8a2f9eab6c5f",
-			"type":"text",
-			"text":"\t\tАнализ данных\nОТЧЕТ СМ В ТГ",
-			"styleAttributes":{},
-			"x":-220,
-			"y":-2391,
-			"width":260,
-			"height":100
-		},
-		{
 			"id":"4bf89b6965d05eef",
 			"type":"text",
 			"text":"\tЭкспертные системы\n\tДосдать 3,4,7,8 лабу\n\t(4 лабу попросить)",
@@ -83,11 +73,41 @@
 			"color":"1"
 		},
 		{
+			"id":"91e8261c908d0ed4",
+			"type":"text",
+			"text":"\t\t\t\t\t\t\t\t\t\t\t\t\t\tПЯТНИЦА",
+			"styleAttributes":{},
+			"x":280,
+			"y":-2495,
+			"width":560,
+			"height":407
+		},
+		{
+			"id":"fa3a6fb43921dda9",
+			"type":"text",
+			"text":"автоматы",
+			"styleAttributes":{},
+			"x":300,
+			"y":-2391,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ee3b8a2f9eab6c5f",
+			"type":"text",
+			"text":"\t\tАнализ данных\nОТЧЕТ СМ В ТГ",
+			"styleAttributes":{},
+			"x":-260,
+			"y":-2391,
+			"width":260,
+			"height":100
+		},
+		{
 			"id":"958c52e7d3b4918b",
 			"type":"text",
 			"text":"БЖД\nподготовиться к зачету\n+принести тетрадку(Ваня)",
 			"styleAttributes":{},
-			"x":-220,
+			"x":-260,
 			"y":-2291,
 			"width":260,
 			"height":91
@@ -97,7 +117,7 @@
 			"type":"text",
 			"text":"Ознакомительная практика\nSTM (блокчейн)",
 			"styleAttributes":{},
-			"x":40,
+			"x":0,
 			"y":-2391,
 			"width":220,
 			"height":191,
