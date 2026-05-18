@@ -122,6 +122,48 @@
 			"width":220,
 			"height":191,
 			"color":"4"
+		},
+		{
+			"id":"3b37235c549c7fe8",
+			"type":"text",
+			"text":"client",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-220,
+			"y":-1680,
+			"width":100,
+			"height":60
+		},
+		{
+			"id":"39164908c255633f",
+			"type":"text",
+			"text":"HTTP - multipart",
+			"styleAttributes":{"textAlign":"center"},
+			"x":20,
+			"y":-1680,
+			"width":140,
+			"height":60
+		},
+		{
+			"id":"52015b50d02ffcc0",
+			"type":"text",
+			"text":"ASP.NET Core Web API",
+			"styleAttributes":{"textAlign":"center"},
+			"x":0,
+			"y":-1540,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e105a3ce1d1efe42",
+			"type":"text",
+			"text":"Контроллеры\n",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":-30,
+			"y":-1440,
+			"width":380,
+			"height":280
 		}
 	],
 	"edges":[
