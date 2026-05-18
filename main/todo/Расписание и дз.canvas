@@ -15,40 +15,58 @@
 			"type":"text",
 			"text":"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tСРЕДА",
 			"styleAttributes":{},
-			"x":-980,
-			"y":-3315,
-			"width":1260,
-			"height":820
+			"x":-280,
+			"y":-2905,
+			"width":560,
+			"height":410
 		},
 		{
-			"id":"b95cae254c9e7a9b",
+			"id":"e5635345fa979df1",
 			"type":"text",
-			"text":"Ознакомительная практика\nSTM (блокчейн)",
+			"text":"\t\t\t\t\t\t\t\t\t\t\t\t\t\tВТОРНИК",
 			"styleAttributes":{},
-			"x":-440,
-			"y":-3195,
-			"width":260,
-			"height":140,
-			"color":"4"
+			"x":280,
+			"y":-2905,
+			"width":560,
+			"height":410
 		},
 		{
-			"id":"d1b07d5fffc7d448",
+			"id":"d151288a8d2e2a22",
 			"type":"text",
-			"text":"Только 4 лабу по факту найти\n13.05 СДАТЬ ЛАБЫ",
+			"text":"Имитационное моделирование\n\nЛабы + КУРСАЧ",
 			"styleAttributes":{},
-			"x":-700,
-			"y":-3195,
+			"x":300,
+			"y":-2780,
 			"width":260,
-			"height":100,
-			"color":"5"
+			"height":160
+		},
+		{
+			"id":"57c947afb1992088",
+			"type":"text",
+			"text":"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tЧЕТВЕРГ",
+			"styleAttributes":{},
+			"x":-280,
+			"y":-2495,
+			"width":560,
+			"height":407
+		},
+		{
+			"id":"ee3b8a2f9eab6c5f",
+			"type":"text",
+			"text":"\t\tАнализ данных\nОТЧЕТ СМ В ТГ",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-2391,
+			"width":260,
+			"height":100
 		},
 		{
 			"id":"4bf89b6965d05eef",
 			"type":"text",
 			"text":"\tЭкспертные системы\n\tДосдать 3,4,7,8 лабу\n\t(4 лабу попросить)",
 			"styleAttributes":{},
-			"x":-700,
-			"y":-3095,
+			"x":-260,
+			"y":-2770,
 			"width":260,
 			"height":110,
 			"color":"1"
@@ -58,51 +76,32 @@
 			"type":"text",
 			"text":"Экспертная система с СТМ",
 			"styleAttributes":{},
-			"x":-440,
-			"y":-3055,
+			"x":-260,
+			"y":-2660,
 			"width":260,
-			"height":70,
+			"height":60,
 			"color":"1"
 		},
 		{
-			"id":"e5635345fa979df1",
+			"id":"958c52e7d3b4918b",
 			"type":"text",
-			"text":"\t\t\t\t\t\t\t\t\t\t\t\t\t\tВТОРНИК",
+			"text":"БЖД\nподготовиться к зачету\n+принести тетрадку(Ваня)",
 			"styleAttributes":{},
-			"x":280,
-			"y":-3315,
-			"width":1120,
-			"height":820
+			"x":-220,
+			"y":-2291,
+			"width":260,
+			"height":91
 		},
 		{
-			"id":"ee3b8a2f9eab6c5f",
+			"id":"b95cae254c9e7a9b",
 			"type":"text",
-			"text":"\t\tАнализ данных\nОТЧЕТ СМ В ТГ",
+			"text":"Ознакомительная практика\nSTM (блокчейн)",
 			"styleAttributes":{},
-			"x":60,
-			"y":-3630,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"d151288a8d2e2a22",
-			"type":"text",
-			"text":"Имитационное моделирование\n\nЛабы + КУРСАЧ",
-			"styleAttributes":{},
-			"x":320,
-			"y":-3215,
-			"width":260,
-			"height":160
-		},
-		{
-			"id":"57c947afb1992088",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":-960,
-			"y":-2380,
-			"width":260,
-			"height":60
+			"x":40,
+			"y":-2391,
+			"width":220,
+			"height":191,
+			"color":"4"
 		}
 	],
 	"edges":[
@@ -115,17 +114,6 @@
 			"toNode":"b8d990c1b4e49c90",
 			"toSide":"left",
 			"color":"1"
-		},
-		{
-			"id":"814f0a09e6f1eae3",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"4bf89b6965d05eef",
-			"fromSide":"top",
-			"toNode":"d1b07d5fffc7d448",
-			"toSide":"bottom",
-			"color":"5"
 		},
 		{
 			"id":"252b25d2592d9e8d",
