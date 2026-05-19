@@ -31,16 +31,6 @@
 			"height":410
 		},
 		{
-			"id":"d151288a8d2e2a22",
-			"type":"text",
-			"text":"Имитационное моделирование\n\nЛабы + КУРСАЧ",
-			"styleAttributes":{},
-			"x":300,
-			"y":-2780,
-			"width":260,
-			"height":160
-		},
-		{
 			"id":"57c947afb1992088",
 			"type":"text",
 			"text":"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tЧЕТВЕРГ",
@@ -59,17 +49,6 @@
 			"y":-2770,
 			"width":260,
 			"height":110,
-			"color":"1"
-		},
-		{
-			"id":"b8d990c1b4e49c90",
-			"type":"text",
-			"text":"Экспертная система с СТМ",
-			"styleAttributes":{},
-			"x":-260,
-			"y":-2660,
-			"width":260,
-			"height":60,
 			"color":"1"
 		},
 		{
@@ -353,6 +332,27 @@
 			"width":260,
 			"height":60,
 			"color":"3"
+		},
+		{
+			"id":"d151288a8d2e2a22",
+			"type":"text",
+			"text":"Имитационное моделирование\n\nЛабы \n",
+			"styleAttributes":{},
+			"x":-260,
+			"y":-2200,
+			"width":480,
+			"height":112
+		},
+		{
+			"id":"b8d990c1b4e49c90",
+			"type":"text",
+			"text":"Экспертная система с СТМ",
+			"styleAttributes":{},
+			"x":0,
+			"y":-2770,
+			"width":260,
+			"height":110,
+			"color":"1"
 		}
 	],
 	"edges":[
