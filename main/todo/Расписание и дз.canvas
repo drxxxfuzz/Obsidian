@@ -11,26 +11,6 @@
 			"height":210
 		},
 		{
-			"id":"3bc6dd9914116fed",
-			"type":"text",
-			"text":"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tСРЕДА",
-			"styleAttributes":{},
-			"x":-280,
-			"y":-2905,
-			"width":560,
-			"height":410
-		},
-		{
-			"id":"e5635345fa979df1",
-			"type":"text",
-			"text":"\t\t\t\t\t\t\t\t\t\t\t\t\t\tВТОРНИК",
-			"styleAttributes":{},
-			"x":280,
-			"y":-2905,
-			"width":560,
-			"height":410
-		},
-		{
 			"id":"57c947afb1992088",
 			"type":"text",
 			"text":"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tЧЕТВЕРГ",
@@ -39,17 +19,6 @@
 			"y":-2495,
 			"width":560,
 			"height":407
-		},
-		{
-			"id":"4bf89b6965d05eef",
-			"type":"text",
-			"text":"\tЭкспертные системы\n\tДосдать 3,4,7,8 лабу\n\t(4 лабу попросить)",
-			"styleAttributes":{},
-			"x":-260,
-			"y":-2770,
-			"width":260,
-			"height":110,
-			"color":"4"
 		},
 		{
 			"id":"91e8261c908d0ed4",
@@ -70,17 +39,6 @@
 			"y":-2391,
 			"width":260,
 			"height":60
-		},
-		{
-			"id":"ee3b8a2f9eab6c5f",
-			"type":"text",
-			"text":"\t\tАнализ данных\nОТЧЕТ СМ В ТГ",
-			"styleAttributes":{},
-			"x":-260,
-			"y":-2391,
-			"width":260,
-			"height":100,
-			"color":"1"
 		},
 		{
 			"id":"958c52e7d3b4918b",
@@ -336,28 +294,18 @@
 			"color":"1"
 		},
 		{
-			"id":"b8d990c1b4e49c90",
+			"id":"ee3b8a2f9eab6c5f",
 			"type":"text",
-			"text":"Экспертная система с СТМ",
+			"text":"\t\tАнализ данных\nОТЧЕТ СМ В ТГ",
 			"styleAttributes":{},
 			"x":0,
-			"y":-2770,
-			"width":260,
-			"height":110,
+			"y":-2291,
+			"width":220,
+			"height":91,
 			"color":"1"
 		}
 	],
 	"edges":[
-		{
-			"id":"11641db250cf827c",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"4bf89b6965d05eef",
-			"fromSide":"right",
-			"toNode":"b8d990c1b4e49c90",
-			"toSide":"left",
-			"color":"1"
-		},
 		{
 			"id":"cef3b4cacc65daee",
 			"styleAttributes":{},
