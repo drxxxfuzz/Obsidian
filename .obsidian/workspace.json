@@ -11,15 +11,33 @@
             "id": "e7fe1d24885cf094",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Excalidraw/Drawing 2026-04-13 20.03.06.excalidraw.md"
+                "file": "main/todo/Расписание и дз.canvas",
+                "viewState": {
+                  "x": 674.1314270067146,
+                  "y": -285.4908982622375,
+                  "zoom": -0.31306121710281437
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-13 20.03.06.excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "Расписание и дз"
+            }
+          },
+          {
+            "id": "bb0c65e96137b7e9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.13.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +57,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -241,8 +261,12 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "e7fe1d24885cf094",
+  "active": "bb0c65e96137b7e9",
   "lastOpenFiles": [
+    "Pasted image 20261004230532.png",
+    "main/todo/public static void main().md",
+    "main/универское поебота/Инфобез/Алг Евк Об.md",
+    "main/универское поебота/АС курсач/АС/АС.md",
     "Excalidraw/Drawing 2026-04-13 20.03.06.excalidraw.md",
     "Pasted Image 20260625193946_690.png",
     "Pasted Image 20260526013345_694.png",
@@ -257,8 +281,6 @@
     "main/универское поебота/Методы Оптимизации завезите/ПРАКТИКА.canvas",
     "main/универское поебота/Методы Оптимизации завезите/ПЛАН МО.base",
     "main/Dev/c#.canvas",
-    "main/универское поебота/Инфобез/Алг Евк Об.md",
-    "main/todo/public static void main().md",
     "main/png/расписание 1.pdf",
     "Безымянная Kanban-доска.md",
     "Pasted Image 20260420204941_892.png",
@@ -275,7 +297,6 @@
     "main/универское поебота/Методы Оптимизации завезите/МО ДО 13/11. Алгоритм симплекс-метода..md",
     "main/универское поебота/Методы Оптимизации завезите/МО ДО 13/9. Симплексная таблица..md",
     "main/универское поебота/Методы Оптимизации завезите/МО ДО 13/10. Связь между коэффициентами разложения векторов-столбцов задачи в соседних симплексных таблицах..md",
-    "main/универское поебота/АС курсач/АС/АС.md",
     "main/универское поебота/Методы Оптимизации завезите.zip",
     "main/универское поебота/Методы Оптимизации завезите.7z",
     "main/универское поебота/Методы Оптимизации завезите/МО ПОСЛЕ 13/14. Определения выпуклого множества, выпуклой (строго выпуклой) функции..md",
